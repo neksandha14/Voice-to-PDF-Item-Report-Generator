@@ -1,0 +1,16 @@
+# Python 
+__pycache__/
+*.__pyc
+
+#Virtual environment
+venv/
+.env
+
+#macOS
+.DS_Store
+
+#VS Code
+.vscode/
+
+#Generated PDFs
+Items_Report.pdf
