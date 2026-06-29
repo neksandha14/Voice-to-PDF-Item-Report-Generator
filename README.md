@@ -1,7 +1,7 @@
 # Voice-to-PDF-Item-Report-Generator
 A python application that converts voice input into a professionally formatted PDF item report using SpeechRecognition and ReportLab
 
-# 🎤 Voice to PDF Item Report Generator
+# Voice to PDF Item Report Generator
 
 A Python-based application that converts spoken item details into a professionally formatted PDF report.
 
@@ -9,7 +9,7 @@ The application listens to your voice through the microphone, extracts the item 
 
 ---
 
-## ✨ Features
+## Features
 
 - Voice Recognition
 - Automatic Item & Price Detection
